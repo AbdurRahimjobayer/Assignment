@@ -1,0 +1,77 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 60px;
+    
+}
+.border{
+    border-left: 6px solid red;
+  
+}
+
+section{
+    display: flex;
+    margin-bottom:80px ;
+}
+
+.half-width{
+    width: 50%;
+    margin-left: 50px;
+}
+.half-width img{
+    width: 50%;
+    margin-left: 40px;
+    
+    
+    
+}
+.button{
+    color: aliceblue;
+    background-image: linear-gradient(tomato,tomato);
+    padding: 10px 40px;
+    text-decoration: none;
+    border-radius: 6px;
+    
+}
+.My-Mission{
+    display: flex;
+    
+
+}
+.missionills{
+    width: 400px;
+    height: 350px;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 10px 40px;
+    border-radius: 10%;
+    
+}
+.missionills img{
+    width: 130px;
+    height: 140px;
+}
+
+.Without-Limits{
+   background-image: url(images/shapes/shape-5.png);
+   background-repeat: no-repeat;
+   background-position:right ;
+   
+   
+}
+.Without-Limits2{
+    background-image: url(images/shapes/shape-4.png);
+    background-repeat: no-repeat;
+    background-position:left ;
+
+}
+footer{
+    height: 140px;
+    background-color: black;
+    padding: 70px;
+    text-align: center;
+    font-family: Cursive;
+
+    
+}
